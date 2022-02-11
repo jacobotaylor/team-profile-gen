@@ -2,7 +2,7 @@ const { expect } = require("@jest/globals");
 const { Obj } = require("prelude-ls");
 const Manager = require("../lib/Manager");
 
-const manager = new Manager('jacob', 25, "jacobtaylorclt@gmail.com", "27");
+const manager = new Manager('jacob', 36, "jacobtaylorclt@gmail.com", "27");
 
 describe(
     'Manager', () => {

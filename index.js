@@ -134,8 +134,4 @@ const writeFile = str => {
     })
   }; 
 
-  managerQuestions()
-//   .then(addJobs)
-//   .then(answers => {return template(answers);})
-//   .then(data => {return writeFile(data);})
-//   .catch(err => {console.log(err)})
+  managerQuestions();
